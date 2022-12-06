@@ -1,0 +1,13 @@
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\bin\Debug\Osztalyprogram.exe.config
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\bin\Debug\Osztalyprogram.exe
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\bin\Debug\Osztalyprogram.pdb
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.Form1.resources
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.Properties.Resources.resources
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.csproj.GenerateResource.cache
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.exe
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.pdb
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\bin\Debug\System.IO.Compression.dll
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.csproj.CopyComplete
+C:\Users\Patrik\Desktop\Osztalyprogram\Osztalyprogram\obj\Debug\Osztalyprogram.csproj.ResolveComReference.cache
